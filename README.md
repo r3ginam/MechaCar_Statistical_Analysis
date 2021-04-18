@@ -22,10 +22,10 @@
 ## T-Tests on Suspension Coils
 
 
-![](images/ttest1)
+![](images/ttest1/png)
 
 
-![](images/ttest_subsets)
+![](images/ttest_subsets.png)
 
 
 ## Study Design: MechaCar vs Competition 
