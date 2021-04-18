@@ -22,7 +22,8 @@
 ## T-Tests on Suspension Coils
 
 
-![](images/ttest1/png)
+![](images/ttest1.png)
+
 
 
 ![](images/ttest_subsets.png)
