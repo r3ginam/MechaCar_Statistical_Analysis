@@ -20,11 +20,11 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-** 
+** Vehicle Length and Ground Clearance 
 * Is the slope of the linear model considered to be zero? Why or why not?
-**  
+**  No
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-**
+** It can predict upto 71% of the mpg. 
 
 
 ## Trip Analysis
@@ -35,6 +35,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 ![](images/lot_summary_psi.png)
 
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+** Lot 1 and 2 meet the specification, but Lot 3 does not with a variance of 170 psi. 
 
 ## T-Tests on Suspension Coils
 
