@@ -61,6 +61,6 @@ __STATISTICAL TEST__
 Two sample t-test
 
 __DATA REQUIRED__
-Cost of oil changes at MechaCar dealership across the US compared to competition dealerships
-Cost of tire rotations at MechaCar dealerships across the US compared to competition dealerships
-Cost of air filter changes at MechaCar dealerships across the US compared to competition dealerships
+* Cost of oil changes at MechaCar dealership across the US compared to competition dealerships
+* Cost of tire rotations at MechaCar dealerships across the US compared to competition dealerships
+* Cost of air filter changes at MechaCar dealerships across the US compared to competition dealerships
